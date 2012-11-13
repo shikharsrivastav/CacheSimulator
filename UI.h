@@ -1,3 +1,10 @@
+/*
+ * File:   UI.h
+ * Author: 3_Idiots
+ *
+ * Created on 4 November, 2010, 2:17 AM
+ */
+
 #ifndef UI_H
 #define	UI_H
 
